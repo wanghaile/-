@@ -6,15 +6,18 @@
 
 
 1、AnsJ分词器
+
 相关链接:https://github.com/NLPchina/ansj_seg
 相关文档：http://nlpchina.github.io/ansj_seg/
 文档是否完善:是
 测评结果:
 分词类型	         耗时(字符/毫秒)    精度(Precision)   召回率(Recall)	 F值(F-mesure)	 错误率(Error Rate)
+
 nlp分词-NlpAnalysis	    122.37	        92.58%	         92.90%	           92.74%	         7.44%
 精准分词-ToAnalysis	    257.12		92.57%		 92.93%		   92.75%	         7.45%
 基本分词-BaseAnalysis	    60.33		82.89%		 90.03%		   86.31%	         18.58%
 面向索引的分词		    185.47		40.98%		 97.16%	           57.65%	         50.10%
+
 
 
 2、THULAC	
